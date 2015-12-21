@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               cooperad
 tagline:             'the dual notion of operad'
 description:         'oid'
-url:                 http://cooperad.github.io
-baseurl:             http://cooperad.github.io
+url:                 https://cooperad.github.io
+baseurl:             https://cooperad.github.io
 paginate:            5
 
 # About/contact
