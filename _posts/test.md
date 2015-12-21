@@ -1,1 +1,7 @@
-Noodling with mathjax
+---
+layout: post
+title: mathjax
+--- 
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+ Noodling, doodling.
