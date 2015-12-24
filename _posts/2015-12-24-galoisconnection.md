@@ -18,7 +18,7 @@ Consider a set map $$f:X\to Y$$. It induces poset maps on the powersets: direct 
 
 $$A\subseteq f^*f_*A,$$
 
-which I try to remember by the slogan «push-pull inflates» decorated with suitable hand gestures. Dually, «pull-push deflates»:
+which I try to remember by the slogan «push-pull inflates» (decorated with suitable hand gestures). Dually, «pull-push deflates»:
 
 $$ f_*f^*B \subseteq B$$
 
