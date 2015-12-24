@@ -14,7 +14,7 @@ This follows from the fact that in this setup, a hom-set consists of at most one
 
 An adjunction between posets goes by another name: a Galois connection (the fundamental theorem of Galois theory relates the lattices of certain subgroups and field extensions in this way). Let’s see a simpler example, from set theory.
 
-Consider a set map $$f:X\to Y$$. It induces poset maps on the powersets: direct image $$f_*: 2^X\to 2^Y$$ and inverse image $$f^*:2^Y\to 2^X$$. Recall that for any subset $$A\subset X$$, we have the inclusion
+Consider a set map $$f:X\to Y$$. It induces poset maps on the powersets: direct image $$f_*: 2^X\to 2^Y$$ and inverse image $$f^*:2^Y\to 2^X$$. Recall that for any subset $$A\subseteq X$$, we have the inclusion
 
 $$A\subseteq f^*f_*A,$$
 
