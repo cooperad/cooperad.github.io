@@ -5,7 +5,7 @@ title: test2
 
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-Let $$P,S$$ be posets, with maps going back and forth $$\varphi: P\to S$$ and $$\psi:S\to P$$. Viewing the posets as categories and the maps as functors, an adjunction $$\varphi \vdash \psi$$ simply states that
+Let $$P,S$$ be posets, with maps going back and forth $$\varphi: P\to S$$ and $$\psi:S\to P$$. Viewing the posets as categories and the maps as functors, an adjunction $$\varphi \dashv \psi$$ simply states that
 
 $$\varphi p \leq s \Leftrightarrow p \leq \psi s.$$
 
@@ -24,6 +24,6 @@ $$ f_*f^*B \subseteq B$$
 
 for any $$B\subseteq Y$$.
 
-These observations show that there is a Galois connection $$f_* \vdash f^*$$:
+These observations show that there is a Galois connection $$f_* \dashv f^*$$:
 
 $$ f_* A \subseteq  B \Leftrightarrow A \subseteq f^* B$$.
