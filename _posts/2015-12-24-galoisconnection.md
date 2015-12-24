@@ -24,6 +24,8 @@ $$ f_*f^*B \subseteq B$$
 
 for any $$B\subseteq Y$$.
 
-These observations show that there is a Galois connection $$f_* \dashv f^*$$:
+These observations show that there is a Galois connection $$\ f_* \dashv f^*$$:
 
 $$ f_* A \subseteq  B \Leftrightarrow A \subseteq f^* B$$.
+
+One consequence of this is that direct image, as a left adjoint, preserves coproducts, AKA unions (but not necessarily intersection) and inverse image preserves intersections. This however does not explain why inverse image also preserves union... could it be that is is also right-adjoint?
