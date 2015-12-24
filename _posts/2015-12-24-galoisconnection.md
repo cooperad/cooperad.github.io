@@ -7,7 +7,7 @@ title: test2
 
 Let $$P,S$$ be posets, with maps going back and forth $$\varphi: P\to S$$ and $$\psi:S\to P$$. Viewing the posets as categories and the maps as functors, an adjunction $$\varphi \dashv \psi$$ simply states that
 
-$$\varphi p \leq s \Leftrightarrow p \leq \psi s.$$
+$$\varphi (p) \leq s \Leftrightarrow p \leq \psi (s).$$
 
 
 This follows from the fact that in this setup, a hom-set consists of at most one element, expressing an inequality. The naturality condition of the adjunction is trivial, a direct consequence of monotonicity of poset maps and transitivity of order.
